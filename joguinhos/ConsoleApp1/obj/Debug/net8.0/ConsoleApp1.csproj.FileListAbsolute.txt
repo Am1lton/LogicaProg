@@ -1,0 +1,70 @@
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\8250677\source\repos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\8250677\Downloads\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\Arthu\OneDrive\Área de Trabalho\joguinhos\joguinhos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\8250677\Downloads\joguinhos\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
