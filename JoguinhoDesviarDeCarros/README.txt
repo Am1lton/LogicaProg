@@ -1,0 +1,1 @@
+Este é mais um joguinho feito para uma avaliação de lógica de programação. O jogo contém alguns bugs ocasionais, isso deve acontecer pelo meu uso dos Timers, provavelmente quando os dois timers tentam 'AtualizarObjeto()' ao mesmo tempo, acabam escrevendo com a posição do cursor errado
